@@ -8,7 +8,7 @@ function calculadoraMP(){
 
     precioSteam = parseInt(document.getElementById('precioSteam').value);
 
-    // Se calcula el precio con el impuesto pais + dolar 65%
+    // Se calcula el precio con el impuesto pais + dolar 75%
     precioSteamDolar = precioSteam +((precioSteam*75)/100);
 
     //**********************************************************
@@ -64,8 +64,8 @@ function calculadoraT(){
 
     precioSteam = parseInt(document.getElementById('precioSteam').value);
 
-    // Se calcula el precio con el impuesto pais + dolar 65%
-    precioSteamDolar = precioSteam +((precioSteam*65)/100);
+    // Se calcula el precio con el impuesto pais + dolar 75%
+    precioSteamDolar = precioSteam +((precioSteam*75)/100);
 
     //**********************************************************
         // Se calcula el porcentaje de la ganancia que espero
@@ -110,7 +110,7 @@ function calculadoraML(){
 
     precioSteam = parseInt(document.getElementById('precioSteam').value);
 
-    // Se calcula el precio con el impuesto pais + dolar 65%
+    // Se calcula el precio con el impuesto pais + dolar 75%
     precioSteamDolar = precioSteam +((precioSteam*75)/100);
 
     //**********************************************************
