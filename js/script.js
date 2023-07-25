@@ -101,7 +101,7 @@ function calculadoraT(){
 
 function calculadoraML(){
     let precioSteam, precioSteamDolar, porcentajeGanancia = 0, precioVenta, ganancia, uno, dos, tres, cuatro, cinco, suma;
-    let unidad = 60;
+    let unidad = 250;
     let impuestoGanancia = 2;
     let impuestoValorAgregado = 11;
     let porcentajeClasica = 11;
